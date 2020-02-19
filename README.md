@@ -1,5 +1,7 @@
 JR LMS Frontend Demo App
 
+Practice
+
 #### Test credentials:
 joey@test.com
 123456
